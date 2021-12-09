@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  font-size: 40px;
+}
+
+#marco-polo-toggler {
+  background-color: rgb(57, 218, 57);
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+#marco-polo-toggler:hover {
+  cursor: pointer;
+  color: white;
+  background-color: green;
+}
